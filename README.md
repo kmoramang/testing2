@@ -3,7 +3,7 @@ Azure Web App is a cloud-based web application hosting service provided by Micro
 
 # Architecture Components Used:
 
- 1.Resource Group
+1.Resource Group
 #
 2. Key Vault
 3. Azure SQL Database
